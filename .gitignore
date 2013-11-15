@@ -1,0 +1,6 @@
+.tm_properties
+Gemfile.lock
+/.bundle
+/.sass-cache
+/build
+/components
